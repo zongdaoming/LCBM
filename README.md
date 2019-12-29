@@ -1,3 +1,2 @@
 # LCBM
-## This is the code implementations for LCBM
-### This is a test
+## This is our code implementations for LCBM 
